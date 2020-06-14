@@ -1,5 +1,6 @@
 # > Apple News and Apple Map TOMTOM Version
-DOMAIN,gsp*-ssl.ls.apple.com,applenews
+DOMAIN,gsp64-ssl.ls.apple.com,applenews
+DOMAIN,gsp-ssl.ls.apple.com,applenews
 USER-AGENT,AppleNews*,applenews
 USER-AGENT,com.apple.news*,applenews
 DOMAIN-SUFFIX,apple.news,applenews
@@ -7,3 +8,4 @@ DOMAIN,news-client.apple.com,applenews
 DOMAIN,news-edge.apple.com,applenews
 DOMAIN,news-events.apple.com,applenews
 DOMAIN,apple.comscoreresearch.com,applenews
+DOMAIN,configuration.ls.apple.com,applenews
