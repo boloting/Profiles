@@ -9,4 +9,10 @@ DOMAIN,news-client.apple.com,applenews
 DOMAIN,news-edge.apple.com,applenews
 DOMAIN,news-events.apple.com,applenews
 DOMAIN,apple.comscoreresearch.com,applenews
-
+# > Siri / Apple Intelligence
+DOMAIN,guzzoni.apple.com,applenews
+DOMAIN-SUFFIX,smoot.apple.com,applenews
+DOMAIN,apple-relay.apple.com,applenews
+DOMAIN,apple-relay.cloudflare.com,applenews
+DOMAIN,apple-relay.fastly-edge.com,applenews
+DOMAIN,cp4.cloudflare.com,applenews
