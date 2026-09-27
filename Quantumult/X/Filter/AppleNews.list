@@ -16,3 +16,4 @@ DOMAIN,apple-relay.apple.com,applenews
 DOMAIN,apple-relay.cloudflare.com,applenews
 DOMAIN,apple-relay.fastly-edge.com,applenews
 DOMAIN,cp4.cloudflare.com,applenews
+DOMAIN,api-siri-prod.apple.com,applenews
