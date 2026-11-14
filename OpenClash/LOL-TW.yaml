@@ -1,1 +1,11 @@
 
+payload:
+  - DOMAIN-SUFFIX,leagueoflegends.com
+  - DOMAIN-SUFFIX,leagueoflegends.net
+  - DOMAIN-SUFFIX,riotgames.com
+  - DOMAIN-SUFFIX,riotgames.net
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,pvp.net
+  - DOMAIN-SUFFIX,lolstatic.com
+  - DOMAIN-SUFFIX,rstatic.net
+  - DOMAIN-SUFFIX,lolusercontent.com
